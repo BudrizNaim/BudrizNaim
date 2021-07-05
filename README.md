@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BudrizNaim
-- 👀 I’m interested in Problem Solving
+- 👀 I’m interested in Calculating and Problem Solving
 - 🌱 I’m currently learning Python,Java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Currently just finished studies in Diploma Digital Technologies
 - 📫 How to reach me budriznaim1100@gmail.com
 
 <!---
