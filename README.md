@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BudrizNaim
+- 👋 Hi, I’m @Budbud
 - 👀 I’m interested in Calculating and Problem Solving
 - 🌱 I’m currently learning Python,Java
 - 💞️ Currently just finished studies in Diploma Digital Technologies
