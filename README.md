@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BudrizNaim
 - 👀 I’m interested in Calculating and Problem Solving
-- 🌱 I’m currently learning Python,Java
+- � Python and Java. Not an expert but i'm quite proficient.
 - 💞️ Currently just finished studies in Diploma Digital Technologies
 - 📫 How to reach me budriznaim1100@gmail.com
 
